@@ -21,5 +21,5 @@
 ###28</br>git checkout — poem.md
 ###29 </br>git branch -D title
 
-32 git reflog       git checkout 825be7b
-33 git reflog       git checkout 648227b
+###32</br>git reflog       git checkout 825be7b
+###33</br>git reflog       git checkout 648227b
